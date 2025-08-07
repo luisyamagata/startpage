@@ -4,7 +4,7 @@ Iniciei esse projeto em Janeiro de 2025, e venho usado ele no meu dia-a-dia desd
 
 Inicialmente ele não tinha esse contador de visitantes. Eu tinha curiosidade de ver quantas vezes tinha acessado ele, e também queria treinar um pouco meu JavaScript, aí resolvi adicionar ele em uma segunda versão.
 
-Eu queria um tema escuro, que não agredisse os olhos. Para criar a paleta de cores usando o site [coolors](https://coolors.co/6ccff6-2d3047-e0ca3c-a799b7) (gratuito). 
+Eu queria um tema escuro, que não agredisse os olhos. Para criar a paleta de cores usei o site [coolors](https://coolors.co/6ccff6-2d3047-e0ca3c-a799b7) (gratuito). 
 
 Tive a ideia para esse projeto em um fórum onde vários usuários postavam cada um a startpage que tinham criado. Acabei que só mostrei essa aqui para um grupo de amigos.
 
