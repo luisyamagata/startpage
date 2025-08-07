@@ -11,3 +11,6 @@ Tive a ideia para esse projeto em um fórum onde vários usuários postavam cada
 Hoje (07/08/2025), sentei para resolver um pequeno erro que tava me incomodando o suficiente para não publicar o site por aqui. Uma das horizontal rules que separam as sessões do site estava desalinhada das outras. Foi coisa simples.
 
 Estou querendo também adicionar uma previsão do tempo pra minha cidade lá embaixo, antes do contador visitantes, já fiz isso usando uma API em um site separado, falta juntar tudo e ajustar o design.
+
+Preview da Startpage:
+![Print Screen da Startpage - Um site com fundo preto, dividido em sessões horizontais com links azuis, lá embaixo, tem um contador de visitantes](startpage.png)
