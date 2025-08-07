@@ -12,5 +12,6 @@ Hoje (07/08/2025), sentei para resolver um pequeno erro que tava me incomodando 
 
 Estou querendo também adicionar uma previsão do tempo pra minha cidade lá embaixo, antes do contador visitantes, já fiz isso usando uma API em um site separado, falta juntar tudo e ajustar o design.
 
-Preview da Startpage:
+## Preview da Startpage:
+
 ![Print Screen da Startpage - Um site com fundo preto, dividido em sessões horizontais com links azuis, lá embaixo, tem um contador de visitantes](startpage.png)
