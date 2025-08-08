@@ -16,7 +16,18 @@ Estou querendo também adicionar uma previsão do tempo pra minha cidade lá emb
 
 EN:
 
+I started this project on January 2025, and I've been using it daily since then. Whenever I open a new window on my browser, this is the local file that is loaded instead of its standard homepage.
 
-## Preview da Startpage:
+At first it didn't have the visits counter. I was curious about how many times I've used the website, and I also wanted to train my JavaScript a bit, so I devided to add it on a second version.
 
-![Print Screen da Startpage - Um site com fundo preto, dividido em sessões horizontais com links azuis, lá embaixo, tem um contador de visitantes](startpage.png)
+I wanted a dark theme, that wasn't hard on the eyes. For the color palette I've used the free website [coolors](https://coolors.co/6ccff6-2d3047-e0ca3c-a799b7).
+
+I had the idea for this project on a forum where many users posted the startpage they have each created. I've only shown it to a group of friends.
+
+Today (07/08/2025), I sat down to solve a small mistake that was bugging me enought that I wouldn't publish the website here. One of the horizonta rules that divide the website sections was unaligned with the other ones. Simple stuff.
+
+I intend to also add a weather forecast for my city down there, before the visitor counter. I've already done that using an API on a sepparate website that isn't on GitHub, I need to combine it all and adjust the design.
+
+## Preview da Startpage / Startpage Preview:
+
+![Print Screen da Startpage - Um site com fundo preto, dividido em sessões horizontais com links azuis, lá embaixo, tem um contador de visitantes / Screenshot from Startpage - A website with a dark background, divided into horizontal sections with blue hyperlinks, down there, there is a visitor counter](startpage.png)
