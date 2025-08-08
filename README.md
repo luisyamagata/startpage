@@ -24,7 +24,7 @@ I wanted a dark theme, that wasn't hard on the eyes. For the color palette I've 
 
 I had the idea for this project on a forum where many users posted the startpage they have each created. I've only shown it to a group of friends.
 
-Today (07/08/2025), I sat down to solve a small mistake that was bugging me enought that I wouldn't publish the website here. One of the horizonta rules that divide the website sections was unaligned with the other ones. Simple stuff.
+Today (07/08/2025), I sat down to solve a small mistake that was bugging me enought that I wouldn't publish the website here. One of the horizontal rules that divide the website sections was unaligned with the other ones. Simple stuff.
 
 I intend to also add a weather forecast for my city down there, before the visitor counter. I've already done that using an API on a sepparate website that isn't on GitHub, I need to combine it all and adjust the design.
 
