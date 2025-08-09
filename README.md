@@ -24,10 +24,24 @@ I wanted a dark theme, that wasn't hard on the eyes. For the color palette I've 
 
 I had the idea for this project on a forum where many users posted the startpage they have each created. I've only shown it to a group of friends.
 
-Today (07/08/2025), I sat down to solve a small mistake that was bugging me enough that I wouldn't publish the website here. One of the horizontal rules that divide the website sections was unaligned with the other ones. Simple stuff.
+Today (August 7th/2025), I sat down to solve a small mistake that was bugging me enough that I wouldn't publish the website here. One of the horizontal rules that divide the website sections was unaligned with the other ones. Simple stuff.
 
 I intend to also add a weather forecast for my city down there, before the visitor counter. I've already done that using an API on a sepparate website that isn't on GitHub, I need to combine it all and adjust the design.
 
+ES:
+
+Empecé este proyecto en Enero de 2025, y lo estuve usando en mi dia a dia. Siempre que yo abro una nueva pantalla en mi navegador, este es el archivo local que carga el browser en lugar de su página de inicio estándar.
+
+Al principio no tenía contador de visitas. Yo tenía curiosidad por saber cuántas veces había usado el sitio web y también quería entrenar un poco mi JavaScript, entonces decidi añadirlo en una segunda versión.
+
+Quería un tema oscuro que no cansara la vista. Para la paleta de colores usé el sitio web gratuito [coolors](https://coolors.co/6ccff6-2d3047-e0ca3c-a799b7).
+
+La idea de este proyecto surgió en un foro donde muchos usuarios publicaron la página de inicio que habían creado. Solo se la he mostrado a un grupo de amigos.
+
+Hoy (07/08/2025) me senté a solucionar un pequeño error que me molestaba tanto que no publiqué el sitio web por aqui. Una de las horizontal rules que dividen las secciones del sitio web no estaba alineada con las demás. Cosas sencillas.
+
+También quiero añadir un pronóstico del tiempo para mi ciudad ahí abajo, antes del contador de visitas. Ya lo hice usando una API en un sitio web aparte que no está en GitHub, necesito combinarlo todo y ajustar el diseño.
+
 ## Preview da Startpage / Startpage Preview:
 
-![Print Screen da Startpage - Um site com fundo preto, dividido em sessões horizontais com links azuis, lá embaixo, tem um contador de visitantes / Screenshot from Startpage - A website with a dark background, divided into horizontal sections with blue hyperlinks, down there, there is a visitor counter](startpage.png)
+![Print Screen da Startpage - Um site com fundo preto, dividido em sessões horizontais com links azuis, lá embaixo, tem um contador de visitantes / Screenshot from Startpage - A website with a dark background, divided into horizontal sections with blue hyperlinks, down there, there is a visitor counter / Captura de pantalla de la página de inicio: un sitio web con un fondo oscuro, dividido en secciones horizontales con enlaces azules, allí abajo hay un contador de visitas.](startpage.png)
