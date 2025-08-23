@@ -14,6 +14,8 @@ Hoje (07/08/2025), sentei para resolver um pequeno erro que tava me incomodando 
 
 Estou querendo também adicionar uma previsão do tempo pra minha cidade lá embaixo, antes do contador visitantes, já fiz isso usando uma API em um site separado, falta juntar tudo e ajustar o design.
 
+Em 17/08/2025 hospedei esse site na web, em: [Startpage](https://luisyamagata.page.gd/start-page/index.html?i=1)
+
 EN:
 
 I started this project in January 2025, and I've been using it daily since then. Whenever I open a new window on my browser, this is the local file that is loaded instead of its standard homepage.
@@ -28,6 +30,8 @@ Today (August 7th/2025), I sat down to solve a small mistake that was bugging me
 
 I intend to also add a weather forecast for my city down there, before the visitor counter. I've already done that using an API on a sepparate website that isn't on GitHub, I need to combine it all and adjust the design.
 
+On 17/08/2025 I hosted this website online, at: [Startpage](https://luisyamagata.page.gd/start-page/index.html?i=1)
+
 ES:
 
 Empecé este proyecto en Enero de 2025, y lo estuve usando en mi dia a dia. Siempre que yo abro una nueva pantalla en mi navegador, este es el archivo local que carga el browser en lugar de su página de inicio estándar.
@@ -41,6 +45,8 @@ La idea de este proyecto surgió en un foro donde muchos usuarios publicaron la 
 Hoy (07/08/2025) me senté a solucionar un pequeño error que me molestaba tanto que no publiqué el sitio web por aqui. Una de las horizontal rules que dividen las secciones del sitio web no estaba alineada con las demás. Cosas sencillas.
 
 También quiero añadir un pronóstico del tiempo para mi ciudad ahí abajo, antes del contador de visitas. Ya lo hice usando una API en un sitio web aparte que no está en GitHub, necesito combinarlo todo y ajustar el diseño.
+
+sítio web: [Startpage](https://luisyamagata.page.gd/start-page/index.html?i=1)
 
 ## Preview da Startpage / Startpage Preview:
 
