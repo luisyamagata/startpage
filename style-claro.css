@@ -1,0 +1,75 @@
+body {
+    /*background: #0A090C*/
+    background: #F8F8F8;
+}
+
+/*Paleta de cores modo claro:
+Fundo: seasalt: #F8F8F8 OK
+ Links: Blue(munsell): #3891A6 OK
+ Links-hover + categorias: Feldgrau: #4C5B5C
+ H1 - Princeton Orange - FE9000 ouuu 1c0b19 OK*/
+ 
+main {
+    display: block;
+    font-family: 'Roboto';
+    /* left: 50%; */
+    position: absolute;
+    top: 30%;
+    width: 100%;
+}
+
+h1 {
+    color: #FE9000;
+    display: block; 
+    margin: 0 auto;
+    text-align: left;
+    width: 600px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #70838c;
+    opacity: .4;
+    width: 600px;
+}
+
+ul {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+}
+
+li {
+    /*color: #5171A5;*/
+    color: #3891A6; 
+    display: inline-block;
+    font-size: 1.2em;
+    line-height: 1.5;
+    list-style: none;
+    margin: 5px;
+}
+
+a {
+    color: #4C5B5C;
+    text-decoration: none;
+    transition: .2s;
+}
+
+a:hover {
+    color: #3891A6;
+}
+#contador {
+    margin: 0, auto;
+    color: #5171A5;
+    display: flex;
+    justify-content: center;
+}
+
+/*h3, th {
+    color: #5171A5;
+    display: inline-block;
+    font-size: 1.2em;
+    line-height: 1.5;
+    list-style: none;
+    margin: 5px;
+}*/
